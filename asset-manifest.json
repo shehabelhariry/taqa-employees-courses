@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/taqa-employees-courses/static/css/main.0f3fe0ab.css",
+    "main.js": "/taqa-employees-courses/static/js/main.298cc6fe.js",
+    "static/js/787.ee75be95.chunk.js": "/taqa-employees-courses/static/js/787.ee75be95.chunk.js",
+    "static/media/logo.jpeg": "/taqa-employees-courses/static/media/logo.bef4ce1f7a85843ec607.jpeg",
+    "static/media/user.svg": "/taqa-employees-courses/static/media/user.6fac28162608a9785d541cf4dffeac2e.svg",
+    "index.html": "/taqa-employees-courses/index.html",
+    "main.0f3fe0ab.css.map": "/taqa-employees-courses/static/css/main.0f3fe0ab.css.map",
+    "main.298cc6fe.js.map": "/taqa-employees-courses/static/js/main.298cc6fe.js.map",
+    "787.ee75be95.chunk.js.map": "/taqa-employees-courses/static/js/787.ee75be95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f3fe0ab.css",
+    "static/js/main.298cc6fe.js"
+  ]
+}
